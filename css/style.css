@@ -1,0 +1,32 @@
+h1{
+    background-color: lightseagreen;
+    color: white;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+form {
+    width: 200px;
+    height: 200px;
+    background-color: lightpink;
+    padding: 50px;
+    margin: auto;
+}
+label{
+
+    color: blue;
+    font-size: 20px;
+}
+input {
+    margin: 5px;
+}
+button {
+    font-size: 18px;
+    background-color: rgb(47, 172, 255);
+}
+p{
+    background-color: papayawhip;
+    font-size: 15px;
+    color: blue;
+    font-size: 18px;
+}
